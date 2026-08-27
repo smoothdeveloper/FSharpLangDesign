@@ -8,7 +8,7 @@ This RFC covers the detailed proposal for this suggestion.
 
 - [x] Approved in principle
 - [x] [Suggestion](https://github.com/fsharp/fslang-suggestions/issues/414)
-- [x] [Implementation](https://github.com/dotnet/fsharp/pull/11368)
+- [x] [Implementation](https://github.com/dotnet/fsharp/pull/20340)
 - [ ] Design Review Meeting(s) with @dsyme and others invitees
 - [x] [Discussion](https://github.com/fsharp/fslang-design/discussions/538)
 
